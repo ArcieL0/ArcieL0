@@ -166,8 +166,6 @@ Dokumentasi ilmiah proyek DPM FTI UNTAR: pemodelan UML (use case, class, activit
 
 <img src="https://streak-stats.demolab.com?user=ArcieL0&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArcieL0&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" />
-
 </div>
 
 ---

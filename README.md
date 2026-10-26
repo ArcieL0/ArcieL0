@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2342,50:4c1d95,100:6d28d9&height=240&section=header&text=Davin%20Pratama&fontColor=ffffff&fontSize=56&fontAlignY=40&desc=Full-Stack%20%26%20Machine%20Learning%20Enthusiast&descAlignY=62&descSize=18&animation=fadeIn" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2342,100:6d28d9&height=200&section=header&text=Davin%20Pratama&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Full-Stack%20%26%20Machine%20Learning%20Enthusiast&descAlignY=60&descSize=18" alt="header" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=640&height=40&lines=Mahasiswa+Informatika+%40+Universitas+Tarumanagara;Full-Stack+Developer+(Next.js+%7C+Express.js+%7C+MongoDB);NLP+%26+Deep+Learning+(SVM+%7C+BiLSTM+%7C+IndoBERT);Mencari+magang+IT%2FIS+mulai+Desember+2026)](https://git.io/typing-svg)
 
@@ -88,7 +88,9 @@ Membandingkan performa **SVM (TF-IDF)**, **BiLSTM**, dan **IndoBERT** untuk mend
 - 📊 **Evaluasi:** F1, precision, recall, dan cross-validation
 - 🏆 **Hasil:** IndoBERT jadi model terbaik dengan **F1 rata-rata 74.62%**
 
-[![Materi Proyek](https://img.shields.io/badge/Lihat%20Materi%20Proyek-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1nu00k8HH_Mli1-EIbWrsYlsrcGzm0yX2?usp=drive_link)
+📩 Materi proyek tidak dipublikasikan secara terbuka. **Hubungi saya** lewat email untuk mendapatkannya.
+
+[![Minta Materi](https://img.shields.io/badge/Minta%20Materi%20via%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davinpratama1946@gmail.com?subject=Permintaan%20Materi%20Proyek%20Klasifikasi%20Distorsi%20Kognitif)
 
 <br/>
 

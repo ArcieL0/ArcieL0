@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2342,100:6d28d9&height=200&section=header&text=Davin%20Pratama&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Full-Stack%20%26%20Machine%20Learning%20Enthusiast&descAlignY=60&descSize=18" alt="header" />
+<img src="assets/header.svg" alt="Davin Pratama - Full-Stack & Machine Learning Enthusiast" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=640&height=40&lines=Mahasiswa+Informatika+%40+Universitas+Tarumanagara;Full-Stack+Developer+(Next.js+%7C+Express.js+%7C+MongoDB);NLP+%26+Deep+Learning+(SVM+%7C+BiLSTM+%7C+IndoBERT);Mencari+magang+IT%2FIS+mulai+Desember+2026)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=900&height=40&lines=Mahasiswa+Informatika+%40+Universitas+Tarumanagara;Full-Stack+Developer+(Next.js+%7C+Express.js+%7C+MongoDB);NLP+%26+Deep+Learning+(SVM+%7C+BiLSTM+%7C+IndoBERT);Mencari+magang+IT%2FIS+mulai+Desember+2026)](https://git.io/typing-svg)
 
 <br/>
 
@@ -181,6 +181,6 @@ Terbuka untuk diskusi, kolaborasi, dan peluang magang. Silakan hubungi saya!
 [![Email](https://img.shields.io/badge/Email-davinpratama1946%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davinpratama1946@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-ArcieL0-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArcieL0)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,100:0f2342&height=120&section=footer" alt="footer" />
+<img src="assets/footer.svg" alt="footer" width="100%" />
 
 </div>
